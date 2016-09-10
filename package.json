@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lunr": "mamboer/lunr.js",
+    "lunr": "0.7.1",
     "moment": "^2.14.1",
     "object-assign": "^4.1.0"
   },
