@@ -30,7 +30,7 @@
     "lunr": "0.7.1",
     "moment": "^2.14.1",
     "object-assign": "^4.1.0",
-    "fold-to-ascii": "~4.0.0"
+    "fold-to-ascii": "2.0.2"
   },
   "devDependencies": {
     "hexo": "^3.2.2"
