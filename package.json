@@ -31,7 +31,7 @@
     "moment": "^2.14.1",
     "object-assign": "^4.1.0",
     "fold-to-ascii": "2.0.2",
-    "striptags": "~2.1.2"
+    "striptags": "~2.1.1"
   },
   "devDependencies": {
     "hexo": "^3.2.2"
