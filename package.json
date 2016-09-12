@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-lunr",
+  "name": "hexo-generator-lunr-fr-en",
   "version": "1.0.5",
-  "description": "Lunr index generator plugin for Hexo, compatible with Chinese.",
+  "description": "Lunr index generator plugin for Hexo",
   "main": "index",
   "directories": {
     "lib": "./lib"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mamboer/hexo-generator-lunr.git"
+    "url": "https://github.com/polo2ro/hexo-generator-lunr.git"
   },
   "keywords": [
     "hexo",
