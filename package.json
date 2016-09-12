@@ -1,6 +1,7 @@
 {
   "name": "hexo-generator-lunr-fr-en",
   "version": "1.0.5",
+  "private": true,
   "description": "Lunr index generator plugin for Hexo",
   "main": "index",
   "directories": {
@@ -31,7 +32,6 @@
     "lunr-languages": "git://github.com/MihaiValentin/lunr-languages#5361cb7b3249a77a08bb644f0ad7927a1d157abc",
     "moment": "^2.14.1",
     "object-assign": "^4.1.0",
-    "fold-to-ascii": "2.0.2",
     "striptags": "~2.1.1"
   },
   "devDependencies": {

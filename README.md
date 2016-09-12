@@ -1,5 +1,7 @@
 # hexo-generator-lunr
-Lunr index generator plugin for Hexo, compatible with Chinese.
+Lunr index generator plugin for Hexo.
+
+This fork is based on the default lunr, and use a multi language configuration with the lunr-languages package
 
 ## How to use
 
@@ -21,5 +23,3 @@ lunr:
 > Simple full-text search in your browser
 
 For more details about Lunr.js, please check out the [Lunr.js](http://lunrjs.com/) official site.
-
-In order to make Lunr to be compatible with Chinese, hexo-generator-lunr uses this forked version [mamboer/lunr.js](https://github.com/mamboer/lunr.js).
