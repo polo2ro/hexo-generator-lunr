@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-lunr-fr-en",
+  "name": "hexo-generator-lunr",
   "version": "1.0.5",
   "private": true,
   "description": "Lunr index generator plugin for Hexo",
