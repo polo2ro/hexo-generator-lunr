@@ -32,7 +32,8 @@
     "lunr-languages": "git://github.com/MihaiValentin/lunr-languages#5361cb7b3249a77a08bb644f0ad7927a1d157abc",
     "moment": "^2.14.1",
     "object-assign": "^4.1.0",
-    "striptags": "~2.1.1"
+    "striptags": "~2.1.1",
+    "hsplit": "~0.0.1"
   },
   "devDependencies": {
     "hexo": "^3.2.2"

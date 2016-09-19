@@ -13,7 +13,6 @@ In your `_config.yml`, add the following configs.
 # lunr
 ## languages - array of languages supported by [lunr-languages](https://github.com/MihaiValentin/lunr-languages)
 ## field - post | page | all, default is post
-## fulltext - If fulltext is true, lunr will index the whole post's `content`, or `title` and `excerpt` will be indexed only. If you use full text index, the generation will be slow.
 ## path - where should lunr put it's indexed data
 lunr:
   languages: [en, fr]
