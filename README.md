@@ -21,7 +21,7 @@ lunr:
   path: assets/lunr/
 ```
 
-The generator will build indexes to use in your site, one index per year and a all.json with all years combined.
+The generator will build indexes to use in your site /assets/lunr/all.json.
 the json files contain two properties :
 
 * index: the serialized lunr index

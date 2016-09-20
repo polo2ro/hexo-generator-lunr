@@ -30,10 +30,9 @@
   "dependencies": {
     "lunr": "0.7.1",
     "lunr-languages": "git://github.com/MihaiValentin/lunr-languages#5361cb7b3249a77a08bb644f0ad7927a1d157abc",
-    "moment": "^2.14.1",
     "object-assign": "^4.1.0",
     "striptags": "~2.1.1",
-    "hsplit": "~0.0.1"
+    "hsplit": "git://github.com/polo2ro/hsplit#d11bf6ca14814a015ec40bad488d914031c7b65c"
   },
   "devDependencies": {
     "hexo": "^3.2.2"

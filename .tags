@@ -11,25 +11,25 @@ devDependencies	package.json	/^  "devDependencies": {$/;"	f
 directories	package.json	/^  "directories": {$/;"	f
 email	package.json	/^    "email": "o2team@qq.com",$/;"	f
 engines	package.json	/^  "engines": {$/;"	f
+extractTitleNode	lib/generator.js	/^function extractTitleNode(section) {$/;"	f
 hexo	package.json	/^    "hexo": "^3.2.2"$/;"	f
+hsplit	package.json	/^    "hsplit": "git:\/\/github.com\/polo2ro\/hsplit#d11bf6ca14814a015ec40bad488d914031c7b65c"$/;"	f
 keywords	package.json	/^  "keywords": [$/;"	f
 lib	package.json	/^    "lib": ".\/lib"$/;"	f
 license	package.json	/^  "license": "MIT",$/;"	f
 lunr	package.json	/^    "lunr": "0.7.1",$/;"	f
 lunr-languages	package.json	/^    "lunr-languages": "git:\/\/github.com\/MihaiValentin\/lunr-languages#5361cb7b3249a77a08bb644f0ad7927a1d157abc",$/;"	f
 main	package.json	/^  "main": "index",$/;"	f
-module.exports	lib/generator.js	/^const striptags = require('striptags');$/;"	f
+module.exports	lib/generator.js	/^}$/;"	f
 module.exports.addPostToStore	lib/generator.js	/^	function addPostToStore(post) {$/;"	f
-module.exports.indexBootstrap	lib/generator.js	/^	function indexBootstrap(){$/;"	c
-moment	package.json	/^    "moment": "^2.14.1",$/;"	f
+module.exports.indexBootstrap	lib/generator.js	/^	function indexBootstrap() {$/;"	c
 name	package.json	/^    "name": "o2team",$/;"	f
 name	package.json	/^  "name": "hexo-generator-lunr",$/;"	f
 node	package.json	/^    "node": ">= 4.0.0"$/;"	f
 object-assign	package.json	/^    "object-assign": "^4.1.0",$/;"	f
 private	package.json	/^  "private": true,$/;"	f
 repository	package.json	/^  "repository": {$/;"	f
-store.url	lib/generator.js	/^		store[post.permalink] = {$/;"	p
-striptags	package.json	/^    "striptags": "~2.1.1"$/;"	f
+striptags	package.json	/^    "striptags": "~2.1.1",$/;"	f
 type	package.json	/^    "type": "git",$/;"	f
 url	package.json	/^    "url": "https:\/\/aotu.io"$/;"	f
 url	package.json	/^    "url": "https:\/\/github.com\/polo2ro\/hexo-generator-lunr.git"$/;"	f
