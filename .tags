@@ -34,4 +34,4 @@ striptags	package.json	/^    "striptags": "~2.1.1",$/;"	f
 type	package.json	/^    "type": "git",$/;"	f
 url	package.json	/^    "url": "https:\/\/aotu.io"$/;"	f
 url	package.json	/^    "url": "https:\/\/github.com\/polo2ro\/hexo-generator-lunr.git"$/;"	f
-version	package.json	/^  "version": "1.0.5",$/;"	f
+version	package.json	/^  "version": "1.0.6",$/;"	f
