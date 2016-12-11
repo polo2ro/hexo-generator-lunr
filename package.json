@@ -29,7 +29,7 @@
   "license": "MIT",
   "dependencies": {
     "lunr": "0.7.1",
-    "lunr-languages": "git://github.com/MihaiValentin/lunr-languages#5361cb7b3249a77a08bb644f0ad7927a1d157abc",
+    "lunr-languages": "git://github.com/polo2ro/lunr-languages#8d76c9d2ef1d2c933bd09701a09427be4b465da8",
     "object-assign": "^4.1.0",
     "striptags": "~2.1.1",
     "hsplit": "~0.0.2"
